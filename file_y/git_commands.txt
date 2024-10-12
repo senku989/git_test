@@ -1,0 +1,17 @@
+add my project to a repository:-
+
+
+1. open cmd
+2. go to the path of your project folder
+3. run this command "git init"  (.git folder will be added)
+4. run this command "git status"
+5. run this command "git add <file name with its extension eg: test.html>
+(repeat step 5 for all other files of the current project)
+(now the file which added in step 5 is on a staging phase)
+6. run this command "git commit -m "type any msg for the current commit or change"")
+7. (Now try to change anything on the code of the committed file)
+8. run this command "git status"
+9. run this command "git add <file name>"
+10. run this command "git status"
+11. run this command "git commit -m "type any msg here for the current change""
+12. run this command "git status"
